@@ -5,7 +5,6 @@
 2. [Installation](#installation)
     1. [General](#1-general)
     2. [Making migrations](#2-making-migrations)
-    3. [Extra functions](#3-extra-functions-optional)
 3. [Development](#development)
     1. [Running](#1-running)
 
